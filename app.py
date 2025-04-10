@@ -16,6 +16,12 @@ html_code = """
     <h1>NFDI4Ing Copilot</h1>
 </div>
 """
+# html_code = """
+# <div style="display: flex; flex-direction: column; align-items: center;">
+#     <img src="https://nfdi4ing.de/wp-content/uploads/2024/09/Betty_mitHintergrund_landscape-2048x1024.jpg" width="600"/>
+#     <h1>NFDI4Ing Copilot</h1>
+# </div>
+# """
 
 st.markdown(html_code, unsafe_allow_html=True)
 
