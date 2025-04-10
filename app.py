@@ -6,7 +6,19 @@ import shelve
 
 load_dotenv()
 
-st.title("Streamlit Chatbot Interface")
+
+import streamlit as st
+
+# Use HTML to center the content
+html_code = """
+<div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://nfdi4ing.de/wp-content/uploads/2024/09/NFDI4ING_Wort-Bildmarke_NEG_RGB.svg" width="200"/>
+    <h1>NFDI4Ing Copilot</h1>
+</div>
+"""
+
+st.markdown(html_code, unsafe_allow_html=True)
+
 
 USER_AVATAR = "👤"
 BOT_AVATAR = "🤖"
@@ -16,18 +28,15 @@ client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 if "openai_model" not in st.session_state:
     st.session_state["openai_model"] = "gpt-3.5-turbo"
 
-
 # Load chat history from shelve file
 def load_chat_history():
     with shelve.open("chat_history") as db:
         return db.get("messages", [])
 
-
 # Save chat history to shelve file
 def save_chat_history(messages):
     with shelve.open("chat_history") as db:
         db["messages"] = messages
-
 
 # Initialize or load chat history
 if "messages" not in st.session_state:
@@ -36,6 +45,9 @@ if "messages" not in st.session_state:
 # Sidebar with a button to delete chat history
 with st.sidebar:
     if st.button("Delete Chat History"):
+        st.session_state.messages = []
+        save_chat_history([])
+    if st.button("Chat with Betty"):
         st.session_state.messages = []
         save_chat_history([])
 
