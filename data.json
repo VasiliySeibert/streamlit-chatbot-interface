@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Vasiliy Ivanov",
+    "birth_year": 1987,
+    "profession": "Data Scientist",
+    "interests": ["AI", "climbing", "philosophy"],
+    "notable_works": [
+      {"title": "Climbing the Data Mountain", "year": 2021},
+      {"title": "Deep Learning for the Mind", "year": 2023}
+    ],
+    "education": {
+      "bachelor": "Applied Mathematics, Moscow State University",
+      "phd": "Cognitive Science, MIT"
+    },
+    "fun_fact": "He once used reinforcement learning to train a virtual goat to play chess."
+  },
+  {
+    "name": "Elena Petrova",
+    "birth_year": 1990,
+    "profession": "Robotics Engineer",
+    "interests": ["drones", "ethics", "neuroscience"],
+    "notable_works": [
+      {"title": "Drone Swarms in Emergency Rescue", "year": 2020}
+    ],
+    "education": {
+      "bachelor": "Mechanical Engineering, ETH Zurich",
+      "phd": "Robotics, Stanford University"
+    },
+    "fun_fact": "She designed a robot that reacts to human emotions using facial microexpressions."
+  }
+]
