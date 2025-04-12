@@ -17,7 +17,8 @@ load_dotenv()
 os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
 
 USER_AVATAR = "👤"
-BOT_AVATAR = "🤖"
+BOT_AVATAR = "https://nfdi4ing.de/wp-content/uploads/2024/09/NFDI4ING_Wort-Bildmarke_NEG_RGB.svg"
+
 
 # --- Streamlit Header ---
 st.markdown("""
