@@ -90,7 +90,7 @@ class State(TypedDict):
 
 # Revised Retrieval Step with additional logging for debugging
 def retrieve(state: State):
-    raw_docs = vector_store.similarity_search(state["question"], k=15)
+    raw_docs = vector_store.similarity_search(state["question"], k=5)
     print(f"[DEBUG] Raw documents retrieved: {len(raw_docs)}")
     for i, doc in enumerate(raw_docs):
         print(f"  Doc {i+1}: URL={doc.metadata.get('url')}, snippet={doc.page_content[:100]}...")

@@ -85,7 +85,9 @@ else:
 
 # --- Prompt Template ---
 prompt = ChatPromptTemplate.from_template("""
-You are an expert assistant helping with research questions. Use the retrieved documents below to answer the question in as much detail as needed.
+You are the nfdi4ing Copilot. You know all about the personas Alex, Betty, Caden, Doris, Ellen and Fiona. You know that these archetypes represent reoccuring needs of researchers. 
+You have a special focus on the services and offerings of the NFDI4Ing.
+Use the retrieved documents below to answer the question in as much detail as possible.
 
 - Always include source URLs after each relevant point.
 - If multiple documents are relevant, combine them.
@@ -106,7 +108,7 @@ class State(TypedDict):
 
 # Retrieval step with additional debug logging and filtering by unique URL
 def retrieve(state: State):
-    raw_docs = vector_store.similarity_search(state["question"], k=15)
+    raw_docs = vector_store.similarity_search(state["question"], k=5)
     print(f"[DEBUG] Raw documents retrieved: {len(raw_docs)}")
     for i, doc in enumerate(raw_docs):
         print(f"  Doc {i+1}: URL={doc.metadata.get('url')}, snippet={doc.page_content[:100]}...")

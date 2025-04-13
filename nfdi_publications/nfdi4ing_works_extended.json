@@ -1,0 +1,1458 @@
+[
+  {
+    "title": "Rayen Hamlaouia,*, Atefeh Gooran Orimia, Reem Doniaa, Christian Backeb, Veit Brikenb, Roland Lachmayera",
+    "year": "Year",
+    "link": "PID/web link",
+    "measure": "TA/Measure/SeedFund",
+    "authors": "Authors (full names)"
+  },
+  {
+    "title": "A survey on the dissemination and usage of research data management and related tools in German engineering sciences",
+    "year": 2024,
+    "link": "https://preprints.inggrid.org/repository/view/26/",
+    "measure": "TA Frank",
+    "authors": "Tobias Hamann   , Amelie Metzmacher, Patrick Mund, Marcos Alexandre Galdino   , Anas Abdelrazeq   , Robert Heinrich Schmitt"
+  },
+  {
+    "title": "Leveraging measurement data quality by adoption of the FAIR guiding principles",
+    "year": 2024,
+    "link": "https://doi.org/10.1515/teme-2024-0040",
+    "measure": "TA Frank",
+    "authors": "Schmitt, Robert H., Bodenbenner, Matthias, Hamann, Tobias, Sanders, Mark P., Moser, Mario and Abdelrazeq, Anas"
+  },
+  {
+    "title": "Matching Data Life Cycle and Research Processes in Engineering Sciences",
+    "year": 2024,
+    "link": "https://preprints.inggrid.org/repository/view/42/",
+    "measure": "TA Frank",
+    "authors": "Tobias Hamann M.Sc.   , Michèle Robrecht, Max Leo Wawer   , Jonas Maximilian Werheid   , Mario Moser, Marcos Alexandre Galdino   , Anas Abdelrazeq   , Roland Lachmayer, Robert Schmitt"
+  },
+  {
+    "title": "Demonstration: Solving Archetype Frank's Challenges - Introducing Jarves",
+    "year": 2024,
+    "link": "https://zenodo.org/doi/10.5281/zenodo.12806567",
+    "measure": "TA Frank",
+    "authors": "Tobias Hamann M.Sc."
+  },
+  {
+    "title": "Jarves, the digital data steward from NFDI4Ing",
+    "year": 2024,
+    "link": "https://zenodo.org/doi/10.5281/zenodo.11185297",
+    "measure": "TA Frank",
+    "authors": "Hamann, Tobias; Robrecht, Michèle"
+  },
+  {
+    "title": "Engineering RDM Survey - Dataset",
+    "year": 2024,
+    "link": "https://zenodo.org/doi/10.5281/zenodo.7645547",
+    "measure": "TA Frank",
+    "authors": "Hamann, T., Metzmacher, A. I. und Mund, P. "
+  },
+  {
+    "title": "Jarves: The Digital Data Steward for Engineering Science Research",
+    "year": 2023,
+    "link": "https://zenodo.org/doi/10.5281/zenodo.8378834",
+    "measure": "TA Frank",
+    "authors": "Hamann, T., & Werheid, J."
+  },
+  {
+    "title": "A survey on the dissemination and usage of research data management and related tools in German engineering sciences",
+    "year": 2024,
+    "link": "https://doi.org/10.48694/inggrid.4073",
+    "measure": "TA Frank",
+    "authors": "Tobias Hamann   , Amelie Metzmacher, Patrick Mund, Marcos Alexandre Galdino   , Anas Abdelrazeq   , Robert Heinrich Schmitt"
+  },
+  {
+    "title": "Research Data Management Framework - POC-Study: Guideline and protocol",
+    "year": 2024,
+    "link": "https://doi.org/10.5281/zenodo.14205127",
+    "measure": "TA Frank",
+    "authors": "Hamann, Tobias; Robrecht, Michèle"
+  },
+  {
+    "title": "Meet the digital data steward Jarves",
+    "year": 2024,
+    "link": "https://doi.org/10.5281/zenodo.14162654",
+    "measure": "TA Frank",
+    "authors": "Hamann, T., & Werheid, J."
+  },
+  {
+    "title": "Sketching ways towards RDM at an institute scale",
+    "year": 2024,
+    "link": "https://doi.org/10.5281/zenodo.13751713",
+    "measure": "TA Frank",
+    "authors": "Schmitt, Robert H., Hamann, Tobias"
+  },
+  {
+    "title": "Ein Forschungsdatenmanagement-Rahmenwerk",
+    "year": 2024,
+    "link": "https://doi.org/10.37544/1436-4980-2024-11-12-57",
+    "measure": "TA Frank",
+    "authors": "T. Hamann, C. Florides, A. Abdelrazeq, R. H. Schmitt"
+  },
+  {
+    "title": "Jarves: More guidance and less effort in RDM",
+    "year": 2024,
+    "link": "https://doi.org/10.5281/zenodo.13747295",
+    "measure": "TA Frank",
+    "authors": "Hamann, T., & Werheid, J."
+  },
+  {
+    "title": "Demonstration: Solving Archetype Frank's Challenges - Introducing Jarves",
+    "year": 2024,
+    "link": "https://doi.org/10.5281/zenodo.12806568",
+    "measure": "TA Frank",
+    "authors": "Hamann, T."
+  },
+  {
+    "title": "Workshop: Research Data Management for Data from High Performance Computing (tier 1) – Best-Practice and Applications",
+    "year": 2024,
+    "link": "https://zenodo.org/records/11208789",
+    "measure": "TA Doris",
+    "authors": "siehe: https://zenodo.org/records/11208789 "
+  },
+  {
+    "title": "Coscine Applicaton Profile: HPC CFD Simulation",
+    "year": 2024,
+    "link": "https://coscine.rwth-aachen.de/coscine/apps/aimsfrontend/#/editor?applicationProfile=https://purl.org/coscine/ap/HPC-CFD-Simulation-profile",
+    "measure": "TA Doris",
+    "authors": "Benjamin Farnbacher, Friedrich Ulrich, Angel Sosa + https://git.rwth-aachen.de/nfdi4ing/metadata4ing/metadata4ing/-/blob/develop/CITATION.cff?ref_type=heads"
+  },
+  {
+    "title": "From Ontology to Metadata: A Crawler for Script-based Workflows",
+    "year": 2024,
+    "link": "https://www.inggrid.org/article/id/3983/",
+    "measure": "TA Doris",
+    "authors": "siehe Link"
+  },
+  {
+    "title": "HOMER - HPMC tool for Ontology-based Metadata Extraction and Re-use",
+    "year": 2023,
+    "link": "https://mediatum.ub.tum.de/node?id=1694401",
+    "measure": "TA Doris",
+    "authors": "Benjamin Farnbacher, Yu JIAO"
+  },
+  {
+    "title": "2024 Community Meeting CC-42: HPMC Metadata: Ontology-based Metadata Extraction and Re-use",
+    "year": 2024,
+    "link": "https://zenodo.org/records/14070278",
+    "measure": "TA Doris",
+    "authors": "Benjamin Farnbacher, Yu JIAO"
+  },
+  {
+    "title": "2024 Community Meeting CC-42: MARGE – the Multi-Access Research Gateway for HPC Experts",
+    "year": 2024,
+    "link": "https://zenodo.org/records/14070675",
+    "measure": "TA Doris",
+    "authors": "Benjamin Farnbacher, Yu JIAO"
+  },
+  {
+    "title": "Guidelines zum Text und Data Mining für Forschungszwecke in Deutschland",
+    "year": 2022,
+    "link": "https://oa.tib.eu/renate/handle/123456789/10352",
+    "measure": "S-7-2",
+    "authors": "Elke Brehm"
+  },
+  {
+    "title": "Full Text Conversion Service",
+    "year": 2023,
+    "link": "https://www.ulb.tu-darmstadt.de/die_bibliothek/einrichtungen/zeid/volltextservice.de.jsp",
+    "measure": "S-7-1",
+    "authors": "ULB Darmstadt"
+  },
+  {
+    "title": "Die FAIR Prinzipien: Quiz und Übersicht zum Einstieg",
+    "year": 2022,
+    "link": "https://doi.org/10.5281/zenodo.6647047",
+    "measure": "S-6 / CC-2 / S-1-4",
+    "authors": "Mario Moser"
+  },
+  {
+    "title": "Service: Education GitLab with Self-Study RDM Training Materials",
+    "year": 2022,
+    "link": "https://git.rwth-aachen.de/nfdi4ing/education/",
+    "measure": "S-6 / CC-2",
+    "authors": "Mario Moser; Ute Trautwein-Bruns; Manuela Richter; Tobias Hamann; Janna Neumann; Kerstin Wedlich-Zachodin; David Hecker; Christian Langenbach"
+  },
+  {
+    "title": "Working Group Charter Training Infrastructures",
+    "year": 2022,
+    "link": "https://doi.org/10.5281/zenodo.6478698",
+    "measure": "S-6 / CC-2",
+    "authors": "Peter Pelz, Sonja Herres-Pawlis, Johannes Liermann, Florian Strauß, David Ohse, Norbert Kockmann, Michael Liebau, Daniel Tschink, Jens Dierkes, Justine Vandendorpe, Rabea Müller, Konrad Förstner, Tobias Hamann, Carsten Keßler, Jan-Ocko Heuer, Daniela Hausen, Kristin Sauerland, Aletta Bonn, Andreas Münzmay, … Tanja Hörner"
+  },
+  {
+    "title": "Anforderungen der Förderer im FDM",
+    "year": 2022,
+    "link": "https://doi.org/10.5281/zenodo.6341609",
+    "measure": "S-6 / CC-2",
+    "authors": "Neumann, Janna, Moser, Mario, Trautwein-Bruns, Ute, & Hecker, David"
+  },
+  {
+    "title": "Persönliches Datenmanagement",
+    "year": 2022,
+    "link": "https://doi.org/10.5281/zenodo.6326065",
+    "measure": "S-6 / CC-2",
+    "authors": "Trautwein-Bruns, Ute, Moser, Mario, Neumann, Janna, & Hecker, David"
+  },
+  {
+    "title": "NFDI4Ing Technical Mission Statement",
+    "year": 2021,
+    "link": "https://mission-statement.nfdi4ing.de/",
+    "measure": "S-5",
+    "authors": "Gerald Jagusch, Marius Politze, Rainer Stotzka"
+  },
+  {
+    "title": "Concept for Setting up a Working Group in the NFDI Section \"Common Infrastructures\"",
+    "year": 2022,
+    "link": "https://doi.org/10.5281/zenodo.6421866",
+    "measure": "S-5",
+    "authors": "Wolfgang Pempe, Marius Politze"
+  },
+  {
+    "title": "Service: Geo-Redundant Cloud Storage for Research Data with DFN-AAI and ORCID based access (RDS.NRW)",
+    "year": 2022,
+    "link": "https://docs.coscine.de/de/projects/storage/",
+    "measure": "S-4, S-5",
+    "authors": "Petar Hristov, Marius Politze"
+  },
+  {
+    "title": "Conceptual map of TA-MDI Results",
+    "year": 2023,
+    "link": "https://doi.org/10.5445/IR/1000159210",
+    "measure": "S-4, S-5",
+    "authors": "Rossella Aversa, Gulzaure Abdildina, Sabrine Chelbi, Felix Ernst, Thomas Jejkal, Reetu Joseph, Ajay Kirar, Philipp Ost, Andreas Pfeil, Yusra Shakeel, Rainer Stotzka, Elias Vitali, Katharina Grünwald, Sirieam Hunke, Amirreza Moghaddam, Marius Politze"
+  },
+  {
+    "title": "A Lightning Introduction to the NFDI4Ing Data Collections Explorer",
+    "year": 2024,
+    "link": "https://doi.org/10.5445/IR/1000168463",
+    "measure": "S-4, S-5",
+    "authors": "Philipp Ost"
+  },
+  {
+    "title": "Data Collections Explorer",
+    "year": 2022,
+    "link": "https://rxp.datamanager.kit.edu/",
+    "measure": "S-4",
+    "authors": "Philipp Ost"
+  },
+  {
+    "title": "Overview of (Metadata) Repository Platforms",
+    "year": 2021,
+    "link": "https://kit-data-manager.github.io/repository-platforms/",
+    "measure": "S-4",
+    "authors": "Volker Hartmann, Philipp Ost"
+  },
+  {
+    "title": "Metadata Standards Catalog",
+    "year": 2021,
+    "link": "https://msc.datamanager.kit.edu/",
+    "measure": "S-4",
+    "authors": "Philipp Ost, Rainer Stotzka"
+  },
+  {
+    "title": "Data Collections Explorer",
+    "year": 2022,
+    "link": "https://doi.org/10.5445/IR/1000151429",
+    "measure": "S-4",
+    "authors": "Philipp Ost"
+  },
+  {
+    "title": "Service: WORM Storage for preservation of research results",
+    "year": 2022,
+    "link": "https://docs.coscine.de/en/rdm/resources/types/rds-worm/",
+    "measure": "S-4",
+    "authors": "Petar Hristov, Marius Politze"
+  },
+  {
+    "title": "Science Led Research Data Storage Quotation and Allocation",
+    "year": 2022,
+    "link": "https://docs.coscine.de/en/projects/storage/",
+    "measure": "S-4",
+    "authors": "Petar Hristov, Marius Politze"
+  },
+  {
+    "title": "Data Collections Explorer – An Easy-to-Use Tool for Sharing and Discovering Research Data",
+    "year": 2023,
+    "link": "https://doi.org/10.52825/cordi.v1i.405 ",
+    "measure": "S-4",
+    "authors": "Philipp Ost, Yusra Shakeel, Philipp Tögel"
+  },
+  {
+    "title": "Data Collections Explorer – An Easy-to-Use Tool for Sharing and Discovering Research Data",
+    "year": 2023,
+    "link": "https://doi.org/10.5445/IR/1000162287 ",
+    "measure": "S-4",
+    "authors": "Philipp Ost, Yusra Shakeel, Philipp Tögel"
+  },
+  {
+    "title": "A Short Introduction to the Data Collections Explorer",
+    "year": 2023,
+    "link": "https://doi.org/10.5445/IR/1000162885",
+    "measure": "S-4",
+    "authors": "Philipp Ost"
+  },
+  {
+    "title": "Data Collections Explorer – An Information System for the Engineering Sciences",
+    "year": 2023,
+    "link": "https://doi.org/10.5445/IR/1000160844",
+    "measure": "S-4",
+    "authors": "Philipp Ost, Rainer Stotzka"
+  },
+  {
+    "title": "Metadata Required for FAIR Digital Objects",
+    "year": 2023,
+    "link": "https://doi.org/10.5445/IR/1000164660",
+    "measure": "S-4",
+    "authors": "Rainer Stotzka"
+  },
+  {
+    "title": "How FAIR DOs Enable Interoperability",
+    "year": 2023,
+    "link": "https://doi.org/10.5445/IR/1000164659",
+    "measure": "S-4",
+    "authors": "Rainer Stotzka, Xin Chen, Maggie Hellström, Robert Quick"
+  },
+  {
+    "title": "IG FAIR Digital Object Fabric",
+    "year": 2023,
+    "link": "https://doi.org/10.5445/IR/1000164658",
+    "measure": "S-4",
+    "authors": "Rainer Stotzka, Xin Chen, Maggie Hellström, Robert Quick"
+  },
+  {
+    "title": "A Controlled Vocabulary for Acronyms of NFDI-MatWerk Using the Vocabulary Service EVOKS",
+    "year": 2023,
+    "link": "https://doi.org/10.5445/IR/1000160373 ",
+    "measure": "S-4",
+    "authors": "Gulzaure Abdildina, Felix Ernst, Rossella Aversa, Philipp Ost"
+  },
+  {
+    "title": "FAIR Digital Objects for the Realization of Globally Aligned Data Spaces",
+    "year": 2024,
+    "link": "https://doi.org/10.1109/BigData62323.2024.10825796",
+    "measure": "S-4",
+    "authors": "Nicolas Blumenroehr, Philipp Ost, Felix Kraus, Achim Streit"
+  },
+  {
+    "title": "NFDI4Ing Terminology Service",
+    "year": 2021,
+    "link": "https://terminology.nfdi4ing.de/ts4ing/index",
+    "measure": "S-3-2",
+    "authors": "Felix Engel, Giray Tuncay, Angelina Kraft"
+  },
+  {
+    "title": "TermClick",
+    "year": 2022,
+    "link": "https://addons.mozilla.org/en-GB/firefox/addon/termclick/",
+    "measure": "S-3-2",
+    "authors": "Giray Tuncay, Felix Engel"
+  },
+  {
+    "title": "Semantification of Space Data - A Feasibility Study",
+    "year": 2023,
+    "link": "not published",
+    "measure": "S-3-2",
+    "authors": "Felix Engel, Nenad Krdzavac, Erhun Giray Tuncay, Axel Klinger, John Hughes"
+  },
+  {
+    "title": "Software, Annotation Service",
+    "year": 2023,
+    "link": "https://terminology.nfdi4ing.de/ts/sandbox/annotation ",
+    "measure": "S-3 ",
+    "authors": "Engel, F., Chavada N., Tuncay, E.G. "
+  },
+  {
+    "title": "Service: Metadata Profile Service",
+    "year": 2023,
+    "link": "https://profiles.nfdi4ing.de",
+    "measure": "S-3 ",
+    "authors": NaN
+  },
+  {
+    "title": "MetaStore",
+    "year": 2023,
+    "link": "https://doi.org/10.5281/zenodo.7685007 ",
+    "measure": "S-3",
+    "authors": "Volker Hartmann, Thomas Jejkal, Sabrine Chelbi"
+  },
+  {
+    "title": "Modelling Scientific Processes With the m4i Ontology",
+    "year": 2023,
+    "link": "https://doi.org/10.52825/cordi.v1i.271",
+    "measure": "S-3",
+    "authors": "Dorothea Iglezakis, Džulia Terzijska , Susanne Arndt, Sophia Leimer, Johanna Hickmann, Marc Fuhrmans, Giacomo Lanza"
+  },
+  {
+    "title": "MetadataHub",
+    "year": 2023,
+    "link": "https://doi.org/10.5281/zenodo.10351596",
+    "measure": "S-3",
+    "authors": "Volker Hartmann, Benedikt Heinrichs"
+  },
+  {
+    "title": "Semantification of Space Data-A Feasibility Study",
+    "year": 2023,
+    "link": "10.1109/JCDL57899.2023.00065",
+    "measure": "S-3",
+    "authors": "Engel, F., Krdzavac, N., Tuncay, E. G., Klinger, A., & Hughes, J. "
+  },
+  {
+    "title": "Mit AIMS zu einem Metadatenmanagement 4.0: FAIRe Forschungsdaten benötigen interoperable Metadaten",
+    "year": 2022,
+    "link": "10.11588/HEIBOOKS.979.C13721",
+    "measure": "S-3",
+    "authors": "Grönewald, Matthias and Mund, Patrick and Bodenbrenner, Matthias and Fuhrmans, Marc and Heinrichs, Benedikt and Müller, Matthias S. and Pelz, Peter F. and Politze, Marius and Preuß, Nils and Schmitt, Robert H. and Stäcker, Thomas"
+  },
+  {
+    "title": "MetaStore",
+    "year": 2023,
+    "link": "https://doi.org/10.5281/zenodo.7685007 ",
+    "measure": "S-3",
+    "authors": "Volker Hartmann, Thomas Jejkal, Sabrine Chelbi"
+  },
+  {
+    "title": "MetaStore",
+    "year": 2024,
+    "link": "https://doi.org/10.5281/zenodo.7685007 ",
+    "measure": "S-3",
+    "authors": "Volker Hartmann, Thomas Jejkal, Sabrine Chelbi"
+  },
+  {
+    "title": "MetaStore",
+    "year": 2024,
+    "link": "https://doi.org/10.5281/zenodo.7685007 ",
+    "measure": "S-3",
+    "authors": "Volker Hartmann, Thomas Jejkal, Sabrine Chelbi"
+  },
+  {
+    "title": "MetaStore",
+    "year": 2024,
+    "link": "https://doi.org/10.5281/zenodo.7685007 ",
+    "measure": "S-3",
+    "authors": "Volker Hartmann, Thomas Jejkal, Sabrine Chelbi"
+  },
+  {
+    "title": "Service: Knowledge Base for Research Software Development",
+    "year": 2021,
+    "link": "knowledge-base.nfdi4ing.de",
+    "measure": "S-2",
+    "authors": "Moritz Schwarzmeier, Tomislav Marić, Jan-Patrick Lehr, Ioannis Papagiannidis, Jessika Gappisch et al."
+  },
+  {
+    "title": "Workshop: Einstieg ins Forschungsdatenmanagement mit git und GitLab",
+    "year": 2022,
+    "link": "https://nfdi4ing.pages.rwth-aachen.de/education/gitlab-workshop/preparation/",
+    "measure": "S-2",
+    "authors": "Marius Politze"
+  },
+  {
+    "title": "Service: Jupyterhub",
+    "year": 2022,
+    "link": "https://jupyter.nfdi4ing.de",
+    "measure": "S-2",
+    "authors": "Anett Seeland"
+  },
+  {
+    "title": "Service: NFDI4Ing GitLab for collaboration",
+    "year": 2021,
+    "link": "https://git.rwth-aachen.de/nfdi4ing",
+    "measure": "S-2",
+    "authors": "Marius Politze"
+  },
+  {
+    "title": "Continuous Integration of Scientific Software (in Computational Science and Engineering) (Presentation)",
+    "year": 2022,
+    "link": "https://zenodo.org/record/7153143",
+    "measure": "S-2",
+    "authors": "Moritz Schwarzmeier, Tomislav Maric, Tobias Tolle, Dennis Gläser, Jan-Patrick Lehr, Ioannis Papagiannidis, Benjamin Lambie, Dieter Bothe, Christian Bischof"
+  },
+  {
+    "title": "twoPhaseInterTrackFoam: an OpenFOAM module for Arbitrary Lagrangian/Eulerian Interface Tracking with Surfactants and Subgrid-Scale Modeling",
+    "year": 2024,
+    "link": "10.48550/ARXIV.2403.19523",
+    "measure": "S-2",
+    "authors": "Schwarzmeier, M., Raju, S., Tuković, Ž., Fricke, M., Bothe, D., & Marić, T."
+  },
+  {
+    "title": "The SFB1194 approach to CI with OpenFOAM or How to make research software FAIR",
+    "year": 2024,
+    "link": "https://zenodo.org/doi/10.5281/zenodo.10285141",
+    "measure": "S-2",
+    "authors": "Moritz Schwarzmeier"
+  },
+  {
+    "title": "Applied CI: an academic OpenFOAM example: Engineering Research Software ",
+    "year": 2024,
+    "link": "https://zenodo.org/doi/10.5281/zenodo.10704898",
+    "measure": "S-2",
+    "authors": "Moritz Schwarzmeier, Tomislav Maric, Dieter Bothe"
+  },
+  {
+    "title": "On the automation of formatting OpenFOAM",
+    "year": 2024,
+    "link": "https://zenodo.org/doi/10.5281/zenodo.10965991",
+    "measure": "S-2",
+    "authors": "Moritz Schwarzmeier"
+  },
+  {
+    "title": "twoPhaseInterTrackFoam: an OpenFOAM module for Arbitrary Lagrangian/Eulerian Interface Tracking with Surfactants and Subgrid-Scale Modeling",
+    "year": 2024,
+    "link": "https://doi.org/10.1016/j.cpc.2024.109460",
+    "measure": "S-2",
+    "authors": "Schwarzmeier, M., Raju, S., Tuković, Ž., Fricke, M., Bothe, D., & Marić, T."
+  },
+  {
+    "title": "twoPhaseInterTrackFoam: an OpenFOAM module for Arbitrary Lagrangian/Eulerian Interface Tracking with Surfactants and Subgrid-Scale Modeling",
+    "year": 2024,
+    "link": "https://zenodo.org/doi/10.5281/zenodo.12525999",
+    "measure": "S-2",
+    "authors": "Schwarzmeier, M., Raju, S., Tuković, Ž., Fricke, M., Bothe, D., & Marić, T."
+  },
+  {
+    "title": "Service: RDMO - NFDI4Ing",
+    "year": 2022,
+    "link": "https://rdmo.nfdi4ing.de/",
+    "measure": "S-1-2,1-3",
+    "authors": "Jürgen Windeck, David Wallace, Daniela Hausen, Sabine Schönau"
+  },
+  {
+    "title": "Data management planning: Concept for Setting up a Working Group in the NFDI Section Common Infrastructures",
+    "year": 2022,
+    "link": "https://doi.org/10.5281/zenodo.6499327",
+    "measure": "S-1-2,1-3",
+    "authors": "Harry Enke, Daniela Hausen, Christin Henzen, Gerald Jagusch, Celia Krause, Sabine Schönau, Jürgen Windeck"
+  },
+  {
+    "title": "Service: Reifegradmodelle in der NFDI4Ing - Checklisten",
+    "year": 2022,
+    "link": "https://git.rwth-aachen.de/nfdi4ing/s-1/fdm-reifegradmodelle ",
+    "measure": "S-1-1 ",
+    "authors": "Max Leo Wawer"
+  },
+  {
+    "title": "Reifegradmodell für das Management des Datenzugriffs",
+    "year": 2023,
+    "link": "https://doi.org/10.5281/zenodo.7730557",
+    "measure": "S-1-1 ",
+    "authors": "Max Leo Wawer"
+  },
+  {
+    "title": "Quality Assessment for Research Data Management in Research Projects",
+    "year": 2023,
+    "link": "10.52825/cordi.v1i.420",
+    "measure": "S-1-1 ",
+    "authors": "Max Leo Wawer, Johanna Wurst, Roland Lachmayer"
+  },
+  {
+    "title": "Data quality assurance in the research process using the example of tensile tests",
+    "year": 2023,
+    "link": "https://www.designsociety.org/publication/46856/Data+quality+assurance+in+the+research+process+using+the+example+of+tensile+tests",
+    "measure": "S-1-1, SIG QA",
+    "authors": "Müller, Laura; Wawer, Max Leo; Heimes, Norman; Uhe, Johanna; Koepler, Oliver; Auer, Sören; Lachmayer, Roland; Mozgova, Mozgova"
+  },
+  {
+    "title": "Quality Assessment for Research Data Management in Research Projects -Poster CoRDI",
+    "year": 2023,
+    "link": "https://doi.org/10.5281/zenodo.8347690",
+    "measure": "S-1-1",
+    "authors": "Max Leo Wawer, Johanna Wurst, & Roland Lachmayer"
+  },
+  {
+    "title": "FDM4Ing Community Meeting CC-42: Introduction in RDM and using RDMO for your engineering projects",
+    "year": 2023,
+    "link": "https://doi.org/10.5281/zenodo.10262633",
+    "measure": "S-1/CC42",
+    "authors": "Hastik, C., Windeck, J., & Schönau, S."
+  },
+  {
+    "title": "IG Research Data Management in Engineering - Data Quality and FAIR metrics in Engineering",
+    "year": 2021,
+    "link": "https://www.rd-alliance.org/plenaries/rda-18th-plenary-meeting-virtual/ig-research-data-management-engineering-data-quality-and",
+    "measure": "S-1 ",
+    "authors": "Iryna Mozgova, Jens Freund, Daniela Hausen, Mario Moser"
+  },
+  {
+    "title": "Product Life Cycle Oriented Data Management Planning with RDMO at the Example of Research Field Data",
+    "year": 2022,
+    "link": "https://doi.org/10.11588/heibooks.979.c13722",
+    "measure": "S-1 ",
+    "authors": "Iryna Mozgova, Gerald Jagusch, Jens Freund et al."
+  },
+  {
+    "title": "Research Data Management Workflow – A Framework for Engineering Science",
+    "year": 2024,
+    "link": "http://dx.doi.org/10.35199/NORDDESIGN2024.79",
+    "measure": "S-1 ",
+    "authors": "Max Leo Wawer, Johanna Wurst, & Roland Lachmayer"
+  },
+  {
+    "title": " Five Minutes to Write a Software Management Plan – A Machine-actionable Approach to Simplify the Creation of SMPs. ",
+    "year": 2023,
+    "link": "https://doi.org/10.5281/zenodo.10374839",
+    "measure": "S-1",
+    "authors": "Castro, L. J., Geist, L., Gonzalez, E., Gonzalez-Ocanto, M., Grossmann, Y. V., Pronk, T., Solanki, D., Utrilla Guerrero, C., Wallace, D., & Windeck, J."
+  },
+  {
+    "title": "Reifegradmodell für die Verwaltung des Datenzugriffs",
+    "year": 2023,
+    "link": "https://doi.org/10.11588/heibooks.1288.c18082",
+    "measure": "S-1",
+    "authors": "Wawer M. L., Lachmayer R."
+  },
+  {
+    "title": "A Vision for Data Management Plans in the NFDI",
+    "year": 2024,
+    "link": "https://doi.org/10.5281/zenodo.10570654",
+    "measure": "S-1",
+    "authors": "Diederichs, Katja., Krause, Celia, Lemaire, Marina, Reidelbach, Marco, & Windeck, Jürgen "
+  },
+  {
+    "title": "NFDI4Ing DMP Template (Version 2)",
+    "year": 2024,
+    "link": "https://github.com/rdmorganiser/rdmo-catalog/tree/master-rdmo2.x/shared/nfdi4ing",
+    "measure": "S-1",
+    "authors": "Jürgen Windeck, Sabine Schönau"
+  },
+  {
+    "title": "Quality Criteria for DMP Templates",
+    "year": 2024,
+    "link": "https://doi.org/10.5281/zenodo.13347687",
+    "measure": "S-1",
+    "authors": "Celia Krause, Katharina Bergmann, Daniela Hausen, Roman Riedel, & Jürgen Windeck"
+  },
+  {
+    "title": "Connecting RDM Services. Interoperability and Interfaces for RDMO ",
+    "year": 2024,
+    "link": "https://doi.org/10.17192/bfdm.2024.2.8629",
+    "measure": "S-1",
+    "authors": "Windeck, J., Schröder, M., Frenzel, J., Kusmierz, S., Fuchs, H., & Klar, J."
+  },
+  {
+    "title": "Data Quality Metrics",
+    "year": 2022,
+    "link": "https://data-quality-metrics.readthedocs.io/en/main/",
+    "measure": "GOLO",
+    "authors": "Hauke Dierend"
+  },
+  {
+    "title": "Management of Research Field Data within the Concept of Digital Twin",
+    "year": 2022,
+    "link": "https://doi.org/10.1007/978-3-031-16281-7_20 ",
+    "measure": "GOLO",
+    "authors": "Hauke Dierend, Osman Altun, Iryna Mozgova, Roland Lachmayer"
+  },
+  {
+    "title": "Publikation: Product Life Cycle Oriented Data Management Planning with RDMO at the Example of Research Field Data",
+    "year": 2021,
+    "link": "http://dx.doi.org/10.11588/heibooks.979.c13722 ",
+    "measure": "GOLO",
+    "authors": "Iryna Mozgova, Gerald Jagusch, Jens Freund, Angelina Kraft, Tobias Glück, Kevin Herrmann, Marvin Knöchelmann, Roland Lachmayer "
+  },
+  {
+    "title": "Publikation: Distraction Potential of Vehicle-Based On-Road Projection",
+    "year": 2021,
+    "link": "https://doi.org/10.3390/app112412030",
+    "measure": "GOLO",
+    "authors": "Tobias Glück, Tobias Biermann, Alexander Wolf, Sören Budig, Arved Ziebehl, Marvin Knöchelmann and Roland Lachmayer"
+  },
+  {
+    "title": "GitHub repository: \"CAN Steering Angle Reader - VW Passat\"",
+    "year": 2023,
+    "link": "https://github.com/RayenHML/CAN-Steering-Angle-Reader-VW-Passat ",
+    "measure": "GOLO",
+    "authors": "Rayen Hamlaoui"
+  },
+  {
+    "title": "Vortrag auf der NFDI4Ing-Konferenz 2023 (Gooran Orimi et al., 2023. “A Digital Twin Framework for Field Data and Distributed Systems”)",
+    "year": 2023,
+    "link": "https://doi.org/10.5281/zenodo.8403959",
+    "measure": "GOLO",
+    "authors": "A. Gooran Orimi, R. Hamlaoui, C. Backe, V. Briken, et al."
+  },
+  {
+    "title": "Vortrag auf der NFDI4Ing-Konferenz 2023 (Backe et al., 2023. “Workflow elements for the creation of rich metadata in collaborative research environments”)",
+    "year": 2023,
+    "link": "https://zenodo.org/records/8430753",
+    "measure": "GOLO",
+    "authors": "C. Backe, A. Gooran Orimi, V. Briken, et al."
+  },
+  {
+    "title": "Umfrage für Feldversuche von Feldingenieur*innen",
+    "year": 2022,
+    "link": "https://survey.uni-hannover.de/index.php/659451 ",
+    "measure": "GOLO",
+    "authors": "Hauke Dierend, Philipp Findling"
+  },
+  {
+    "title": "Publikation: \"Distraction Potential of Vehicle-Based On-Road Projection\" Applied Sciences 11, no. 24: 12030. ",
+    "year": "2021.",
+    "link": "https://doi.org/10.3390/app112412030 ",
+    "measure": "GOLO",
+    "authors": "T. Glück, T. Biermann, A. Wolf, S. Budig, A. Ziebehl,M.  Knöchelmann, R. Lachmayer"
+  },
+  {
+    "title": "Publikation: \"Collaborative creation and management of rich FAIR metadata: Two case studies from robotics field research,\" ing.grid, forthcoming.",
+    "year": "2024 -2025",
+    "link": "Under review",
+    "measure": "GOLO",
+    "authors": "C. Backe, V. Briken, A. Gooran Orimi, et al."
+  },
+  {
+    "title": "Digital Twin for Field Data Management: Design of a platform to promote FAIR principles and ensure data reusability_CIRP_2025",
+    "year": "2024 -2025",
+    "link": "Under review",
+    "measure": "GOLO",
+    "authors": "Rayen Hamlaouia, Atefeh Gooran Orimia, Reem Doniaa, Christian Backeb, Veit Brikenb, Roland Lachmayera"
+  },
+  {
+    "title": "Dataset: \"Sonar-to-RGB Image Translation for Diver Monitoring in Poor Visibility Environments,\" https://zenodo.org/records/7728089, Experiment Data, Mar. 2023. \n",
+    "year": 2023,
+    "link": "DOI: 10.5281/zenodo.7728089.",
+    "measure": "GOLO",
+    "authors": "B. Wehbe, N. Shah, M. Bande, et al., "
+  },
+  {
+    "title": "Publikation: \"Comparative study of soil interaction and driving characteristics of different agricultural and space robots in an agricultural environment,\" Journal of Field Robotics, forthcoming, submitted on 09-Nov-2023.\n",
+    "year": 2023,
+    "link": "Submitted",
+    "measure": "GOLO",
+    "authors": "M. Wirkus, S. Hinck, C. Backe, et al., "
+  },
+  {
+    "title": "Dataset: \"RoBivaL data corpus,\" https://zenodo.org/record/8424933, Experiment Data, Mar. 2024. DOI: 10.5281/zenodo.8424933.",
+    "year": 2024,
+    "link": "DOI: 10.5281/zenodo.8424933.",
+    "measure": "GOLO",
+    "authors": "C. Backe, M. Wirkus, S. Hinck, et al., "
+  },
+  {
+    "title": "Dataset: \"Metadata of a Large Sonar and Stereo Camera Dataset Suitable for Sonar-to-RGB Image Translation,\" Experiment Data, Dec. 2023. DOI: 10.5281/zenodo.10373154.",
+    "year": 2023,
+    "link": "DOI: 10.5281/zenodo.10373154",
+    "measure": "GOLO",
+    "authors": "C. Backe, B. Wehbe, M. Bande, et al."
+  },
+  {
+    "title": "GOLO's field database platform",
+    "year": 2024,
+    "link": "https://fielddatabaseplatform.nfdi4ing.de/",
+    "measure": "GOLO",
+    "authors": "Rayen Hamlaoui"
+  },
+  {
+    "title": "Conference paper_Licht 2025: \"Kamerabasierte dynamische Fahrbahnprojektion mit qualitativer Evaluation des Felddatenmanagements \"",
+    "year": 2025,
+    "link": "In progress",
+    "measure": "GOLO",
+    "authors": "Hamlaoui, Rayen; Wawer, Max Leo; Hosseini, Seyed Amirhossein; Gooran Orimi, Atefeh; Glück, Tobias; Wurst, Johanna; Prof. Dr.-Ing. Lachmayer, Roland,"
+  },
+  {
+    "title": "Review Paper: \"AI-Driven Methods for Field Data Analysis: A Comparative Review\"",
+    "year": 2025,
+    "link": "In progress",
+    "measure": "GOLO",
+    "authors": "A. Gooran Orimi, R. Hamlaoui, C. Backe, V. Briken, Y. Wang, H. Fallahi, R. Lachmayer"
+  },
+  {
+    "title": "Journal Paer_ZWF: \"Human-AI Teaming in a Digital Twin Model for Virtual Product Development\"",
+    "year": "2024-2025",
+    "link": "Under review",
+    "measure": "GOLO",
+    "authors": "A. Gooran Orimi, S. Saralajew, J. feng, Z. Dai, R. Hamlaoui, T. Stauß, R. Lachmayer"
+  },
+  {
+    "title": "Workflows ingenieurwissenschaftlicher Forschungsabläufe - Auszug des aktuellen Forschungsstands",
+    "year": 2022,
+    "link": "https://doi.org/10.5281/zenodo.7125571",
+    "measure": "Frank",
+    "authors": "Hamann, Tobias; Moser, Mario"
+  },
+  {
+    "title": "Sektionskonzept Meta(daten), Terminologien und Provenienz zur Einrichtung einer Sektion im Verein Nationale Forschungsdateninfrastruktur (NFDI) e.V.",
+    "year": 2021,
+    "link": "https://doi.org/10.5281/zenodo.5619089",
+    "measure": "Frank",
+    "authors": "Koepler, Oliver, Schrade, Torsten, Neumann, Steffen, Stotzka, Rainer, Wiljes, Cord, Blümel, Ina, Bracht, Christian, Hamann, Tobias, Arndt, Susanne, & Hunold, Johannes"
+  },
+  {
+    "title": "Jarves: The digital RDM assistant",
+    "year": 2023,
+    "link": "https://doi.org/10.5281/zenodo.7715684",
+    "measure": "Frank",
+    "authors": "Hamann, Tobias"
+  },
+  {
+    "title": "Challenges in publishing research data – a Fraunhofer Case Study",
+    "year": 2023,
+    "link": "WIP",
+    "measure": "Frank",
+    "authors": "Robrecht, Michéle; Kehl, Pierre"
+  },
+  {
+    "title": "Implementing usability-improved data management plans in interdisciplinary engineering projects",
+    "year": 2022,
+    "link": "https://doi.org/10.5281/ZENODO.7362038",
+    "measure": "Frank",
+    "authors": "Kim, Soo-Yon; Hillemacher, Steffen"
+  },
+  {
+    "title": "Jarves CoRDI Poster EMBARGO: 12.09.2023",
+    "year": 2023,
+    "link": "https://doi.org/10.5281/zenodo.8315364",
+    "measure": "Frank",
+    "authors": "Tobias Hamann, Jonas Werheid"
+  },
+  {
+    "title": "Service (Weiterentwicklung): Open Research Knowledge Graph (ORKG)",
+    "year": "2021, 2022",
+    "link": "https://orkg.org/template/R166722, https://orkg.org/template/R178304, https://service.tib.eu/ts4tib/index",
+    "measure": "Ellen, S-3",
+    "authors": "-"
+  },
+  {
+    "title": "Example Usecase - Observatory: Energy System Analysis",
+    "year": 2022,
+    "link": "https://www.orkg.org/orkg/observatory/Energy_System_Research",
+    "measure": "Ellen, S-3",
+    "authors": "-"
+  },
+  {
+    "title": "Preprint: A metadata-based approach to improve the findability and interoperability of research software",
+    "year": 2022,
+    "link": "https://arxiv.org/abs/2306.10620",
+    "measure": "Ellen, S-3",
+    "authors": "Patrick Kuckertz, Jan Göpfert, Oliver Karras, David Neuroth, Julian Schönau, Rodrigo Pueblas, Stephan Ferenz, Felix Engel, Noah Pflugradt, Jann M. Weinand, Leander Kotzur, Astrid Nieße, Sören Auer, Detlef Stolten"
+  },
+  {
+    "title": "Webinar: USER STORIES aus der Energieforschung - Wie uns Ontologien bei der Entwicklung von Datenbanken helfen",
+    "year": 2021,
+    "link": "https://nfdi4ing.de/wp-content/uploads/2021/10/210930-Einladung-Terminology-Service.pdf",
+    "measure": "Ellen, S-3",
+    "authors": "-"
+  },
+  {
+    "title": "Example Usecase - Comparison: Greenhouse Gas Reduction Scenarios for Germany",
+    "year": 2021,
+    "link": "https://doi.org/10.48366/r153801",
+    "measure": "Ellen",
+    "authors": "Felix Kullmann, Jan Göpfert, Oliver Karras, Patrick Kuckertz, Sören Auer, Markus Stocker, Peter Markewitz, Leander Kotzur, Detlef Stolten"
+  },
+  {
+    "title": "Example Usecase - Comparison: Comparison of Scenario Factsheets from the Open Energy Platform",
+    "year": 2021,
+    "link": "https://doi.org/10.48366/r150337",
+    "measure": "Ellen",
+    "authors": "Oliver Karras, Jan Göpfert"
+  },
+  {
+    "title": "Conference paper: Measurement Extraction with Natural Language Processing: A Review",
+    "year": 2022,
+    "link": "http://dx.doi.org/10.18653/v1/2022.findings-emnlp.161",
+    "measure": "Ellen",
+    "authors": "Jan Göpfert, Patrick Kuckertz, Jann M. Weinand, Leander Kotzur, Detlef Stolten"
+  },
+  {
+    "title": "Book Chapter: Open Research Data - Beyond Data and Software",
+    "year": 2022,
+    "link": "Submitted",
+    "measure": "Ellen",
+    "authors": "Patrick Kuckertz, Heidi Ursula Heinrichs, David Neuroth, Julian Reul, Thomas Grube, Jochen Linßen, Leander Kotzur, Detlef Stolten"
+  },
+  {
+    "title": "Software Repository: Ecosystem for machine-actionable Software Metadata",
+    "year": 2022,
+    "link": "https://github.com/FZJ-IEK3-VSA/DataDesc",
+    "measure": "Ellen",
+    "authors": "-"
+  },
+  {
+    "title": "SciKGTeX - A LaTeX Package to Semantically Annotate Contributions in Scientific Publications",
+    "year": 2023,
+    "link": "https://arxiv.org/abs/2304.05327",
+    "measure": "Ellen",
+    "authors": "Christof Bless, Ildar Baimuratov, Oliver Karras"
+  },
+  {
+    "title": "The SciQA Scientific Question Answering Benchmark for Scholarly Knowledge",
+    "year": 2023,
+    "link": "https://doi.org/10.1038/s41598-023-33607-z",
+    "measure": "Ellen",
+    "authors": "Sören Auer, Dante A. C. Barone, Cassiano Bartz, Eduardo G. Cortes, Mohamad Yaser Jaradeh, Oliver Karras, Manolis Koubarakis, Dmitry Mouromtsev, Dmitrii Pliukhin, Daniil Radyush, Ivan Shilin, Markus Stocker & Eleni Tsalapati "
+  },
+  {
+    "title": "Divide and Conquer the EmpiRE: A Community-Maintainable Knowledge Graph of Empirical Research in Requirements Engineering",
+    "year": 2023,
+    "link": "https://arxiv.org/pdf/2306.16791",
+    "measure": "Ellen",
+    "authors": "Oliver Karras, Felix Wernlein, Jil Klünder, Sören Auer"
+  },
+  {
+    "title": "Organizing Scholarly Knowledge in the Open Research Knowledge Graph",
+    "year": 2023,
+    "link": "https://doi.org/10.52825/CoRDI.v1i.272",
+    "measure": "Ellen",
+    "authors": "Sören Auer, Markus Stocker, Oliver Karras, Allard Oelen, Jennifer D'Souza, and Anna-Lena Lorenz"
+  },
+  {
+    "title": "\"FAIR-by-Design\" Artifacts: Enriching Publications and Software with FAIR Scientific Information at the Time of Creation",
+    "year": 2023,
+    "link": "https://doi.org/10.5281/zenodo.8386042",
+    "measure": "Ellen",
+    "authors": "Oliver Karras, Patrick Kuckertz, Jan Göpfert, Tristan Pelser, Rodrigo Pueblas, Jann M. Weinand, Detlef Stolten, and Sören Auer"
+  },
+  {
+    "title": "Organizing Scientific Knowledge From Energy System Research Using the Open Research Knowledge Graph",
+    "year": 2023,
+    "link": "https://arxiv.org/abs/2401.13365",
+    "measure": "Ellen",
+    "authors": "Oliver Karras, Jan Göpfert, Patrick Kuckertz, Tristan Pelser, Sören Auer"
+  },
+  {
+    "title": "Reviewing accuracy & reproducibility of large-scale wind resource assessments",
+    "year": 2023,
+    "link": "https://doi.org/10.1016/j.adapen.2023.100158",
+    "measure": "Ellen",
+    "authors": "Tristan Pelser, Jann Michael Weinand, Patrick Kuckertz, Russell McKenna, Jochen Linssen, Detlef Stolten"
+  },
+  {
+    "title": "Organizing Scientific Knowledge from Engineering Sciences Using the Open Research Knowledge Graph: The Tailored Forming Process Chain Use Case",
+    "year": 2024,
+    "link": "https://dx.doi.org/10.5334/dsj-2024-052",
+    "measure": "Ellen",
+    "authors": "Oliver Karras, Laura Budde, Paulina Merkel, Jörg Hermsdorf, Malte Stonis, Ludger Overmeyer, Bernd-Arno Behrens, Sören Auer"
+  },
+  {
+    "title": "Energy System Analysis as an ORKG Use Case",
+    "year": 2024,
+    "link": "https://cuvillier.de/de/shop/publications/9037-open-research-knowledge-graph",
+    "measure": "Ellen",
+    "authors": "Oliver Karras, Felix Kullmann, Jan Göpfert, Patrick Kuckertz, Jann M. Weinand, Detlef Stolten, Sören Auer"
+  },
+  {
+    "title": "DataDesc: A framework for creating and sharing technical metadata for research software interfaces",
+    "year": 2024,
+    "link": "https://doi.org/10.1016/j.patter.2024.101064",
+    "measure": "Ellen, NFDI4Energy",
+    "authors": "Patrick Kuckertz, Jan Göpfert, Oliver Karras, David Neuroth, Julian Schönau, Rodrigo Pueblas, Stephan Ferenz, Felix Engel, Noah Pflugradt, Jann M. Weinand, Atrid Nieße, Sören Auer, Detlef Stolten"
+  },
+  {
+    "title": "Results on a Survey on Research Software Metadata in the NFDI Consortia",
+    "year": 2024,
+    "link": "https://doi.org/10.5281/zenodo.12704414",
+    "measure": "Ellen, NFDI4Energy",
+    "authors": "Castro, L. J., Ferenz, S., Hajiabadi, H., Kuckertz, P., Löbe, M., Schmidt, C., Struck, A., & Thiery, F."
+  },
+  {
+    "title": "Organizing Scientific Knowledge from Engineering Sciences Using the Open Research Knowledge Graph: The Tailored Forming Process Chain Use Case",
+    "year": 2024,
+    "link": "https://doi.org/10.5334/dsj-2024-052",
+    "measure": "Ellen",
+    "authors": "Oliver Karras, Laura Budde, Paulina Merkel, Jörg Hermsdorf,  Malte Stonis, Ludger Overmeyer, Bernd-Arno Behrens, Sören Auer"
+  },
+  {
+    "title": "A Reputation System for Scientific Contributions Based on a Token Economy",
+    "year": 2024,
+    "link": "https://doi.org/10.1007/978-3-031-72437-4_3",
+    "measure": "Ellen",
+    "authors": "Bless, C., Denzler, A., Karras, O., Auer, S."
+  },
+  {
+    "title": "SWARM-SLR - Streamlined Workflow Automation for Machine-Actionable Systematic Literature Reviews",
+    "year": 2024,
+    "link": "https://doi.org/10.1007/978-3-031-72437-4_2",
+    "measure": "Ellen",
+    "authors": "Wittenborg, T., Karras, O., Auer, S."
+  },
+  {
+    "title": "KG-EmpiRE: A Community-Maintainable Knowledge Graph\nfor a Sustainable Literature Review on the State and Evolution\nof Empirical Research in Requirements Engineering",
+    "year": 2024,
+    "link": "https://dx.doi.org/10.1109/RE59067.2024.00063",
+    "measure": "Ellen",
+    "authors": "Oliver Karras"
+  },
+  {
+    "title": "Promotion of Open Science in Requirements Engineering:\nLeveraging the Open Research Knowledge Graph\nfor FAIR Scientific Information",
+    "year": 2024,
+    "link": "https://dx.doi.org/10.15488/17809",
+    "measure": "Ellen",
+    "authors": "Oliver Karras, Alessio Ferrari, Davide Fucci, and Davide Dell’Anna"
+  },
+  {
+    "title": "Opportunities for large language models and discourse in engineering design",
+    "year": 2024,
+    "link": "https://doi.org/10.1016/j.egyai.2024.100383",
+    "measure": "Ellen",
+    "authors": "Jan Göpfert, Jann M. Weinand, Patrick Kuckertz, Detlef Stolten"
+  },
+  {
+    "title": "Literature Review Data for Accuracy and Reproducibility of Wind Potential Assessments",
+    "year": 2023,
+    "link": "https://doi.org/10.26165/JUELICH-DATA/FXM9CB",
+    "measure": "Ellen",
+    "authors": "Tristan Pelser, Patrick Kuckertz, Jann Michael Weinand, Detlef Stolten"
+  },
+  {
+    "title": "REFLOW: Renewable Energy potentials workFLOW manager",
+    "year": 2024,
+    "link": "https://github.com/FZJ-IEK3-VSA/ethos.REFLOW",
+    "measure": "Ellen",
+    "authors": "Tristan Pelser, Patrick Kuckertz, Jann Michael Weinand, Detlef Stolten"
+  },
+  {
+    "title": "A metadata crawler for simulation data management",
+    "year": 2021,
+    "link": "https://gitlab.lrz.de/nfdi4ing/crawler ",
+    "measure": "Doris",
+    "authors": "Ralev, Radoslav | Hoppe, Nils | Chiapparino, Giuseppe | Farnbacher, Benjamin | Stemmer, Christian\n"
+  },
+  {
+    "title": "Data Management Plan: Generic Template with Extension for High Performance Measurement and Computing",
+    "year": 2021,
+    "link": "https://zenodo.org/record/5801838#.YeAysf7MKUk ",
+    "measure": "Doris",
+    "authors": "Hora, Manuel | Farnbacher, Benjamin"
+  },
+  {
+    "title": "Lehrveranstaltung: Einführung in das Forschungsdatenmanagement für Studierende der Ingenieurwissenschaften",
+    "year": 2022,
+    "link": "https://campus.tum.de/tumonline/pl/ui/$ctx/WBMODHB.wbShowMHBReadOnly?pKnotenNr=3032258&pOrgNr=15307",
+    "measure": "Doris",
+    "authors": "verschiedene (Lehrveranstaltung)"
+  },
+  {
+    "title": "Workshops, Konferenz- und Tagungsbeiträge",
+    "year": "2021, 2022",
+    "link": "https://www.epc.ed.tum.de/aer/forschungsgruppen/nfdi4ing/",
+    "measure": "Doris",
+    "authors": "verschiedene (Konferenzbeiträge etc.)"
+  },
+  {
+    "title": "Handreichung zu rechtlichen Aspekten des Forschungsdatenmanagements",
+    "year": 2022,
+    "link": "https://mediatum.ub.tum.de/1690463\t\n",
+    "measure": "Doris",
+    "authors": "Katja Kessler, Dr. Sebastian Öder, Dr. Sascha Grusche"
+  },
+  {
+    "title": "Using Data Science Storage via TUM Workbench - A How-to Guide",
+    "year": 2022,
+    "link": "https://mediatum.ub.tum.de/1639257",
+    "measure": "Doris",
+    "authors": "Katja Kessler, Martin Fischer, Fabian Pichlmaier"
+  },
+  {
+    "title": "Handreichung zu rechtlichen Aspekten des Forschungsdatenmanagements",
+    "year": 2022,
+    "link": "https://doi.org/10.14459/2022md1690463",
+    "measure": "Doris",
+    "authors": "Katja Kessler, Dr. Sebastian Öder, Dr. Sascha Grusche "
+  },
+  {
+    "title": "Workshop: Research Data Management for Data from HPC",
+    "year": 2023,
+    "link": "https://zenodo.org/record/7785532#.ZDlQ_s7P2Ul",
+    "measure": "Doris",
+    "authors": "Apweiler, Sander; Bönisch, Thomas; Chiapparino, Giuseppe; Farnbacher, Benjamin; Grusche, Sascha; Hachinger, Stephan; Huskova, Nadiia; Kunkel, Julian; Sdralia, Vasiliki; Stemmer, Christian; Trumpik, Noah"
+  },
+  {
+    "title": "Metadata4Ing: An ontology for describing the generation of research data within a scientific activity.",
+    "year": 2022,
+    "link": "https://zenodo.org/record/5957104#.Y00ih0zP2Uk",
+    "measure": "diverse",
+    "authors": "diverse, siehe: https://zenodo.org/record/5957104#.Y00ih0zP2Uk"
+  },
+  {
+    "title": "From Ontology to Metadata: A Crawler for Script-based Workflows",
+    "year": 2023,
+    "link": "https://preprints.inggrid.org/repository/view/12/",
+    "measure": "D-3",
+    "authors": "Giuseppe Chiapparino , Benjamin Farnbacher, Nils Hoppe, Radoslav Ralev, Vasiliki Sdralia, Christian Stemmer "
+  },
+  {
+    "title": "NFDI4Ing Conference 2021 - Collection of Abstracts",
+    "year": 2021,
+    "link": "https://doi.org/10.5281/zenodo.7740936",
+    "measure": "CC-44 / CC-45",
+    "authors": "Berger, Marco; Linxweiler, Jan; Roski, Stefanie\n"
+  },
+  {
+    "title": "Report: Community CC-44 Elektro-, Verkehrs-, Systemtechnik und Informatik Arbeitsbericht 2021/2022",
+    "year": 2022,
+    "link": "https://doi.org/10.5281/zenodo.7129431",
+    "measure": "CC-44",
+    "authors": " Berger, Marco; Gerike, Regine; Langenbach, Christian; Roski, Stefanie; Hecker, David; Fuchs, Matthias; Würzner, Kay.Michael"
+  },
+  {
+    "title": "Proceedings of the NFDI4Ing Conference 2023 - Innovation in Research Data Management: Bridging the gaps between disciplines and opening new perspectives for research in engineering science",
+    "year": 2023,
+    "link": "https://doi.org/10.5281/zenodo.10036957",
+    "measure": "CC-44",
+    "authors": "Roski, Stefanie; Gerike, Regine_x000D_\n"
+  },
+  {
+    "title": "NFDI4Ing Conference 2023 - Innovation in Research Data Management: Bridging the gaps between disciplines and opening new perspectives for research in engineering science",
+    "year": 2023,
+    "link": "https://doi.org/10.5281/zenodo.10033863",
+    "measure": "CC-44",
+    "authors": "Roski, Stefanie"
+  },
+  {
+    "title": "Data Set NFDI4Ing Community Survey 2023",
+    "year": NaN,
+    "link": "https://doi.org/10.5281/zenodo.10598900 ",
+    "measure": "CC-3-2",
+    "authors": "Jan Linxweiler, Tom Hensel, Katja Wermbter"
+  },
+  {
+    "title": "Data Set NFDI4Ing Community Survey 2022",
+    "year": NaN,
+    "link": "https://doi.org/10.5281/zenodo.10597988",
+    "measure": "CC-3-2",
+    "authors": "Jan Linxweiler, Tom Hensel"
+  },
+  {
+    "title": "HeFDI Code School: Sustainable Research Software - Scientific Software Development is not a Jenga game!",
+    "year": 2023,
+    "link": "https://doi.org/10.5281/zenodo.7924802",
+    "measure": "CC-3/CC-45",
+    "authors": "Jan Linxweiler, Sven Marcus, Sören Peters"
+  },
+  {
+    "title": "HeFDI Code School: Sustainable Research Software - Clean Code and Refactoring",
+    "year": 2023,
+    "link": "https://doi.org/10.5281/zenodo.7972817",
+    "measure": "CC-3/CC-45",
+    "authors": "Sven Marcus, Sören Peters, Jan Linxweiler"
+  },
+  {
+    "title": "HeFDI Code School: Sustainable Research Software - Introduction to Software Testing",
+    "year": 2023,
+    "link": "https://doi.org/10.5281/zenodo.8069917",
+    "measure": "CC-3/CC-45",
+    "authors": "Harikrishnan Sreekumar, Yannik Hüpel"
+  },
+  {
+    "title": "HeFDI Code School: Sustainable Research Software - Continuous Integration and Test Driven Development",
+    "year": 2023,
+    "link": "https://doi.org/10.5281/zenodo.8119397",
+    "measure": "CC-3/CC-45",
+    "authors": "Jan Linxweiler, Moritz Schwarzmeier, Sören Peters, Sven Marcus"
+  },
+  {
+    "title": "Lehrveranstaltung Praktikum Digitalisierung",
+    "year": 2022,
+    "link": "https://doi.org/10.5281/zenodo.5669216 ",
+    "measure": "CC-2, Alex",
+    "authors": NaN
+  },
+  {
+    "title": "Lehrveranstaltung Grundlagen der Digitalisierung",
+    "year": 2021,
+    "link": "https://www.fzd.tu-darmstadt.de/studies/lectures_fzd/bachelor_1/fundamentals_of_digitalisation/fundamentals_of_digitalisation.en.jsp",
+    "measure": "CC-2, Alex",
+    "authors": "Kevin Logan, Ning Xia, Peter Pelz"
+  },
+  {
+    "title": "Reference implementation of SciMesh in the samples database software JuliaBase",
+    "year": 2022,
+    "link": "https://doi.org/10.5281/zenodo.7357884",
+    "measure": "Caden",
+    "authors": "Torsten Bronger"
+  },
+  {
+    "title": "SciMesh: RDF graphs for scientific knowledge",
+    "year": 2022,
+    "link": "http://hdl.handle.net/2128/32788",
+    "measure": "Caden",
+    "authors": "Torsten Bronger, Michael Flemming, Hartmut Schlenz, Michael Selzer, Manideep Jayavarapu"
+  },
+  {
+    "title": "A Research Software Engineering Workflow for Computational Science and Engineering",
+    "year": 2022,
+    "link": "https://arxiv.org/abs/2208.07460",
+    "measure": "Betty & S-2",
+    "authors": "Tomislav Maric, Dennis Gläser, Jan-Patrick Lehr, Ioannis Papagiannidis, Benjamin Lambie, Christian Bischof, Dieter Bothe"
+  },
+  {
+    "title": "Evaluation of tools for describing, reproducing and reusing scientific workflows",
+    "year": 2022,
+    "link": "https://arxiv.org/abs/2211.06429",
+    "measure": "Betty ",
+    "authors": "Philipp Diercks, Dennis Gläser, Ontje Lünsdorf, Michael Selzer, Bernd Flemisch, Jörg F. Unger"
+  },
+  {
+    "title": "Evaluation of workflow tools for computational scientific workflows",
+    "year": 2021,
+    "link": "https://github.com/BAMresearch/NFDI4IngScientificWorkflowRequirements",
+    "measure": "Betty",
+    "authors": "Philipp Diercks, Dennis Gläser"
+  },
+  {
+    "title": "Python tool for regression testing in software (especially simulation software)",
+    "year": 2022,
+    "link": "https://gitlab.com/dglaeser/fieldcompare",
+    "measure": "Betty",
+    "authors": "Dennis Gläser"
+  },
+  {
+    "title": "Education material around sustainable software development",
+    "year": 2022,
+    "link": "https://gitlab.com/sustainable-simulation-software/course-material",
+    "measure": "Betty",
+    "authors": "Dennis Gläser, Bernd Flemisch"
+  },
+  {
+    "title": "Material for one-week course on research software development",
+    "year": 2022,
+    "link": "https://github.com/RSE-102/",
+    "measure": "Betty",
+    "authors": "Benjamin Ükermann, Bernd Flemisch, Dennis Gläser, Ishaan Desai"
+  },
+  {
+    "title": "Betty's (re)search engine",
+    "year": 2022,
+    "link": "http://nfdi4ing.rz-housing.tu-clausthal.de/",
+    "measure": "Betty",
+    "authors": "Vasiliy Seibert, Stefan Wittek, Andreas Rausch"
+  },
+  {
+    "title": "GridFormat: Header-only C++-Library for grid file I/O",
+    "year": 2023,
+    "link": "https://doi.org/10.21105/joss.05778",
+    "measure": "Betty",
+    "authors": "Dennis Gläser, Timo Koch, Bernd Flemisch"
+  },
+  {
+    "title": "Betty’s (Re)Search Engine: A client-based search engine for research software stored in repositories.",
+    "year": 2024,
+    "link": "https://doi.org/10.48694/inggrid.3953",
+    "measure": "Betty",
+    "authors": "Vasiliy Seibert orcid logo (Institute for Software and Systems Engineering, TU Clausthal)  , Andreas Rausch (Institute for Software and Systems Engineering, TU Clausthal) , Stefan Wittek (Institute for Software and Systems Engineering, TU Clausthal)"
+  },
+  {
+    "title": "Service: Self-documenting software - prototype test phase ",
+    "year": 2022,
+    "link": "-",
+    "measure": "Alex/A-4-2\t\t",
+    "authors": "Steven Wagner, Philip Linke"
+  },
+  {
+    "title": "Checkliste – Mess- und Datenplanung für das maschinelle Lernen in der Montage",
+    "year": 2022,
+    "link": "https://zenodo.org/record/6943476#.Y0ffbHZBxD8",
+    "measure": "Alex\t",
+    "authors": "Christopher Schnur, Anne Blum, Steffen Klein"
+  },
+  {
+    "title": "Service: FDM compliant storage - RSM data cente",
+    "year": "since 2019 continuously",
+    "link": "-",
+    "measure": "Alex",
+    "authors": "Steven Wagner, Philip Linke"
+  },
+  {
+    "title": "plotID Matlab",
+    "year": 2021,
+    "link": "https://git.rwth-aachen.de/plotid/plot_identifier",
+    "measure": "Alex",
+    "authors": "Martin Hock et al"
+  },
+  {
+    "title": "plotID Python",
+    "year": 2022,
+    "link": "https://git.rwth-aachen.de/plotid/plotid_python",
+    "measure": "Alex",
+    "authors": "Martin Hock et al"
+  },
+  {
+    "title": "Alex gitlab pages ",
+    "year": 2021,
+    "link": "https://ta_alex.pages.rwth-aachen.de/action-items/",
+    "measure": "Alex",
+    "authors": "Martin Hock, Michaela Leštáková et al"
+  },
+  {
+    "title": "pyKraken",
+    "year": 2022,
+    "link": "https://git.rwth-aachen.de/fst-tuda/public/pykkn",
+    "measure": "Alex",
+    "authors": "Martin Hock, Nils Preuß  et al"
+  },
+  {
+    "title": "HDF5-Workshop",
+    "year": 2020,
+    "link": "https://ta_alex.pages.rwth-aachen.de/action-items/presentations/#hdf5-workshop",
+    "measure": "Alex",
+    "authors": "Nils Preuß"
+  },
+  {
+    "title": "Python Styleguide for Researchers",
+    "year": 2022,
+    "link": "https://ta_alex.pages.rwth-aachen.de/action-items/action-items/37_styleguide_py/",
+    "measure": "Alex",
+    "authors": "Michaela Leštáková, "
+  },
+  {
+    "title": "Transparent Publication: Lessons Learned",
+    "year": 2021,
+    "link": "https://ta_alex.pages.rwth-aachen.de/action-items/action-items/29_datapub/",
+    "measure": "Alex",
+    "authors": "Michaela Leštáková, Kevin Logan"
+  },
+  {
+    "title": "Unit Test Workshop",
+    "year": 2022,
+    "link": "https://ta_alex.pages.rwth-aachen.de/action-items/action-items/54_unit-test-workshop/",
+    "measure": "Alex",
+    "authors": "Michaela Leštáková, Kevin Logan, Daniele Inturri"
+  },
+  {
+    "title": "sofirPY als Best-Practice",
+    "year": 2022,
+    "link": "https://git.rwth-aachen.de/sofirpy/sofirpy",
+    "measure": "Alex",
+    "authors": "Daniele Inturri"
+  },
+  {
+    "title": "Conference paper: Data Management as an Enabler of Sustainability – Discussion Using the Example of a Digital Data Sheet",
+    "year": 2022,
+    "link": "https://tubiblio.ulb.tu-darmstadt.de/133071/",
+    "measure": "Alex",
+    "authors": "Logan, Kevin ; Meck, Marvin ; Preuß, N. ; Wetterich, Philipp ; Pelz, P. F.\nSchmitz, Katharina"
+  },
+  {
+    "title": "FAIR data boxes demonstrator",
+    "year": 2022,
+    "link": "https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/3610.2",
+    "measure": "Alex",
+    "authors": "Nils Preuß"
+  },
+  {
+    "title": "Press article about RDM in experiments",
+    "year": 2023,
+    "link": "https://www.sueddeutsche.de/wissen/nationale-forschungsdateninfrastruktur-daten-forschung-nfdi-1.6016012",
+    "measure": "Alex",
+    "authors": "Canan Hastik, Peter Pelz"
+  },
+  {
+    "title": "pyKraken-Bibliothek zur Strukturierung von Daten mit Metadaten unter Python und dem Export in HDF5 und JSON",
+    "year": 2022,
+    "link": "https://git.rwth-aachen.de/fst-tuda/public/pykkn",
+    "measure": "A-3-3, A-2-2, A-2-3,A-2-4, \t\t_x000D_\n",
+    "authors": "Ilyass Afkir, Berk Calabakan, Konstantin Repp, Stefan Andreas Sauter, Bastian Tigges, Zhichao Zhang"
+  },
+  {
+    "title": "PIA - A Concept for a Personal Information Assistant forData Analysis and Machine Learning in industrialapplication",
+    "year": 2023,
+    "link": "https://preprints.inggrid.org/repository/view/15/",
+    "measure": "A-2-2,A-4-4",
+    "authors": "Christopher Schnur, Tanja Dorst, Kapil Sajjan Deshmukh, Sarah Zimmer, Philipp Litzenburger, Tizian Schneider, Lennard Margies, Rainer Müller, Andreas Schütze"
+  },
+  {
+    "title": "SOFIRpy: Co-Simulation Of Functional Mock-up Units (FMU) with Integrated Research Data Management ",
+    "year": 2022,
+    "link": "https://git.rwth-aachen.de/sofirpy/sofirpy",
+    "measure": "A-2-2,-3,-4",
+    "authors": "Daniele Inturri "
+  },
+  {
+    "title": "plotID - a toolkit for connecting research data and visualization",
+    "year": 2023,
+    "link": "https://www.inggrid.org/article/id/3632/",
+    "measure": "A-2-2",
+    "authors": "Martin Hock, Hannes Mayr , Manuela Richter , Jan Lemmer , Peter Pelz"
+  },
+  {
+    "title": "Module Communication in Experimental Applications",
+    "year": 2023,
+    "link": "https://ta_alex.pages.rwth-aachen.de/action-items/action-items/module-communication/",
+    "measure": "A-1-2",
+    "authors": " Michaela Leštáková, Nils Preuss, Christopher Liehr "
+  },
+  {
+    "title": "FieldCompare: a Python package for regression testing simulation results",
+    "year": 2023,
+    "link": "https://doi.org/10.21105/joss.04905",
+    "measure": NaN,
+    "authors": NaN
+  },
+  {
+    "title": "Building a Data Transfer Federation between Research Centers",
+    "year": 2023,
+    "link": "https://doi.org/10.5445/IR/1000174313",
+    "measure": "S4",
+    "authors": "Mozhdeh Farhadi, Serge Sushkov Evdoshenko, Andreas Petzold"
+  },
+  {
+    "title": "Fraunhofer Bibliography Evaluation Scripts",
+    "year": 2023,
+    "link": "https://gitlab.ulb.tu-darmstadt.de/nfdi4ing-public/bibliography-evaluation",
+    "measure": "S-7",
+    "authors": "Marvin Gusen"
+  },
+  {
+    "title": "Integrating custom constitutive models into FEniCSx: A versatile approach and case studies",
+    "year": 2024,
+    "link": "https://zenodo.org/records/13980989",
+    "measure": "Betty",
+    "authors": "Unger, Jörg"
+  },
+  {
+    "title": "Harvester Curator",
+    "year": 2024,
+    "link": "https://github.com/SimTech-Research-Data-Management/harvester-curator",
+    "measure": "Betty",
+    "authors": "Sarbani Roy"
+  },
+  {
+    "title": "Community-based RDM Trainings in the engineering sciences – experiences and results from the exchange",
+    "year": 2024,
+    "link": "https://doi.org/10.5281/zenodo.14288087 ",
+    "measure": "S-6",
+    "authors": "Christian Langenbach, Kerstin Wedlich, Mario Moser, et al."
+  },
+  {
+    "title": "Building a Data Transfer Federation",
+    "year": 2023,
+    "link": "https://doi.org/10.5445/IR/1000177013",
+    "measure": "S4",
+    "authors": "Mozhdeh Farhadi, Paul Skopnik"
+  },
+  {
+    "title": "Research Data Management in Simulation Science: Infrastructure, Tools, and Applications",
+    "year": 2024,
+    "link": "https://doi.org/10.1007/s13222-024-00475-4",
+    "measure": "Betty",
+    "authors": "Bernd Flemisch, Sarbani Roy"
+  },
+  {
+    "title": "Hensel, T., & Wermbter, K. (2025). NFDI4ING Community Survey 2024 [Data set].",
+    "year": 2025,
+    "link": " https://doi.org/10.5281/zenodo.14614243 ",
+    "measure": "CC-3-2",
+    "authors": "Katja Wermbter, Tom Hensel"
+  },
+  {
+    "title": "Aufgaben und Tools für den digitalen FDM-Assistenten 'Jarves' – Joint Assistant for Research in Versatile Engineering Services",
+    "year": 2023,
+    "link": "DOI: 10.5281/ZENODO.8188422",
+    "measure": "Frank",
+    "authors": "Robrecht, M."
+  },
+  {
+    "title": "Ontology Mappings",
+    "year": 2023,
+    "link": "DOI: 10.5281/ZENODO.8238012",
+    "measure": "S-3-2",
+    "authors": "Nenad Krdzavac, N. ; Engel, F."
+  },
+  {
+    "title": "The NFDI4Ing Terminology Service Sandbox",
+    "year": 2023,
+    "link": "DOI: 10.5281/ZENODO.8233897",
+    "measure": "S-3-2",
+    "authors": "Engel, F."
+  }
+]
