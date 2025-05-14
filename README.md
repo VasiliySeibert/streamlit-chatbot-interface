@@ -9,3 +9,9 @@ how to set up:
     * after faiss store was created, you can start chatting with the arxive publications
 
 * to reset the chat history, press the "delete chat history button" in the front end
+
+
+ALSO:
+create a .env file in the main directory. enter in your open ai api key
+
+OPENAI_API_KEY="your-key-here"
