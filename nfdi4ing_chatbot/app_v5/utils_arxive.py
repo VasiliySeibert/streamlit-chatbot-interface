@@ -30,8 +30,8 @@ class State(TypedDict):
 llm = ChatOpenAI(api_key=os.getenv("OPENAI_API_KEY"), model="gpt-4o-mini")
 embeddings = OpenAIEmbeddings(api_key=os.getenv("OPENAI_API_KEY"))
 
-vector_store_path = "faiss_110"
-data_file_path = "dataset_110.json"
+vector_store_path = "faiss_310"
+data_file_path = "dataset_310.json"
 
 prompt = ChatPromptTemplate.from_template("""
 You are a research assistant. You have to answer the following research question based on the context provided.
